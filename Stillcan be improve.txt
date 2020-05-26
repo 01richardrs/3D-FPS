@@ -1,0 +1,7 @@
+Still can be improved:
+- Animation for hold gun
+- Jumping still bugy
+- Gun shooting to OP auto delivered the bullet to the target no matter how far
+- Enemy no health/Death Anim [Autoded]
+- Weapon Auto Rotate when picked up which makes it weird.
+- Enemy,Weap,Spawn Variations
